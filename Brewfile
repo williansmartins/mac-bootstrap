@@ -8,7 +8,7 @@
 #brew install --cask rectangle
 
 # Ferramentas
-brew "git"
+#brew "git"
 #brew wget
 #brew node
 #brew python
@@ -19,3 +19,4 @@ brew "git"
 # Extras úteis
 #cask docker
 #cask "postman"
+#cask "macs-fan-control"
