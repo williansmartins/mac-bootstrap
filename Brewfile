@@ -9,9 +9,9 @@
 
 # Ferramentas
 #brew "git"
-#brew wget
-#brew node
-#brew python
+#brew "wget"
+brew "node"
+#brew "python"
 
 # Banco de dados
 #brew install mysql

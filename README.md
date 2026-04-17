@@ -51,7 +51,7 @@ brew "node"
 3. Execute a instalação:
 
 ```bash
-brew bundle --file=Brewfile
+brew bundle --file=Brewfile --verbose
 ```
 
 ## Estrutura atual
