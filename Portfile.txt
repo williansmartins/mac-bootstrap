@@ -1,1 +1,4 @@
-install nodejs22
+# install nodejs22
+# install npm9
+# install python311
+install dbeaver-community
